@@ -16,12 +16,12 @@ Especialista en el diseño y operación de infraestructuras resilientes con enfo
 
 ### 🛠️ Proyectos Destacados (Arquitectura y Resiliencia)
 
-#### ☁️ [Cloud Resume Challenge on AWS](https://github.com/jclm-rt/Public-Cloud-Resume-Challenge-on-AWS-by-jclm1rt)
+#### ☁️ [Cloud Resume Challenge on AWS](https://github.com/jclm-rt/Public_Cloud_Resume_Challenge_on_AWS_by_jclm1rt)
 Implementación de infraestructura **Serverless** utilizando IaC (AWS SAM).
 * **Impacto:** Automatización total del ciclo de vida con GitHub Actions y seguridad reforzada mediante AWS Secrets Manager.
 * **Tech:** Lambda, DynamoDB, CloudFront, S3, Route 53.
 
-#### ☸️ [Containerized Web App con EKS](https://github.com/jclm-rt/Public-k8s-Amazon-Web-Demo-by-jclm1rt)
+#### ☸️ [Containerized Web App con EKS](https://github.com/jclm-rt/Public_k8s_Amazon_Web_Demo_by_)jclm1rt)
 Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-Affinity**.
 * **Impacto:** Eliminación de puntos únicos de fallo y monitoreo proactivo con el stack Prometheus/Grafana.
 * **Tech:** EKS, Docker, Boto3, Python.
