@@ -35,8 +35,23 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
 ---
 
 ### 📈 GitHub Metrics & Activity
+<!--
 ![Stats](https://github-readme-stats.vercel.app/api?username=jclm-rt&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclm-rt&layout=compact&theme=tokyonight)
+-->
+
+> **Monitoreo en tiempo real de la actividad del plano de desarrollo.**
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://metrics.lecoq.io/jclm-rt?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&lines=1&introduction=1&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.details=percentage&languages.aliases=rendered:html,code:python&config.timezone=America/La_Paz" alt="General Metrics" />
+    </td>
+    <td width="50%">
+      <img src="https://metrics.lecoq.io/jclm-rt?template=classic&base=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America/La_Paz" alt="Isometric Calendar" />
+    </td>
+  </tr>
+</table>
 
 ---
 
