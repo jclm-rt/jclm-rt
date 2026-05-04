@@ -25,6 +25,9 @@ Implementación de infraestructura **Serverless** utilizando IaC (AWS SAM).
 * **Tech:** Lambda, DynamoDB, CloudFront, S3, Route 53.
 
 #### ☸️ [Containerized Web App con EKS](https://github.com/jclm-rt/Public_k8s_Amazon_Web_Demo_by_jclm1rt)
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/jclm-rt/Public_k8s_Amazon_Web_Demo_by_jclm1rt)
+
 Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-Affinity**.
 * **Impacto:** Eliminación de puntos únicos de fallo y monitoreo proactivo con el stack Prometheus/Grafana.
 * **Tech:** EKS, Docker, Boto3, Python.
