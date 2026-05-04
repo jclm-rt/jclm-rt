@@ -55,6 +55,22 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
 
 ---
 
+### 📈 System Operations & Metrics
+> **Estatus operativo de la infraestructura de desarrollo.**
+
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Profile_Activity-blue?style=for-the-badge&logo=github)](https://github.com/jclm-rt)
+[![Experience](https://img.shields.io/badge/Experience-9+_Years-green?style=for-the-badge)](https://linkedin.com/in/julio-cesar-lapaca-martinez/)
+[![Sector](https://img.shields.io/badge/Sector-Financial_Infrastructure-gold?style=for-the-badge)](https://github.com/jclm-rt)
+
+| Métrica de Red | Valor / Estatus |
+| :--- | :--- |
+| **Arquitectura de Red** | [cite_start]CCNP Level / AWS Advanced Networking [cite: 20, 64] |
+| **Ciberseguridad** | [cite_start]Zero Trust & NGFW Specialist [cite: 25] |
+| **Disponibilidad DRP** | [cite_start]RTO de 40 segundos alcanzado [cite: 27] |
+| **NetDevOps** | [cite_start]Python / Ansible / Terraform [cite: 15] |
+
+---
+
 ### 📡 Let's Connect
 - **LinkedIn:** [julio-cesar-lapaca-martinez](https://www.linkedin.com/in/julio-cesar-lapaca-martinez/)
 - **Web/Portfolio:** [resume.juliocesarlapaca.com](https://resume.juliocesarlapaca.com/)
