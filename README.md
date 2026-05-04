@@ -43,6 +43,7 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclm-rt&layout=compact&theme=tokyonight)
 
 </details>
+
 <!--
 > **Monitoreo en tiempo real de la actividad del plano de desarrollo.**
 
@@ -68,10 +69,10 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
 
 | Métrica de Red | Valor / Estatus |
 | :--- | :--- |
-| **Arquitectura de Red** | [cite_start]CCNP Level / AWS Advanced Networking [cite: 20, 64] |
-| **Ciberseguridad** | [cite_start]Zero Trust & NGFW Specialist [cite: 25] |
-| **Disponibilidad DRP** | [cite_start]RTO de 40 segundos alcanzado [cite: 27] |
-| **NetDevOps** | [cite_start]Python / Ansible / Terraform [cite: 15] |
+| **Arquitectura de Red** | CCNP Level / AWS Advanced Networking |
+| **Ciberseguridad** | Zero Trust & NGFW Specialist |
+| **Disponibilidad DRP** | RTO de 40 segundos alcanzado |
+| **NetDevOps** | Python / Terraform |
 
 ---
 
