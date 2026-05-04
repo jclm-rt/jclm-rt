@@ -34,12 +34,16 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
 
 ---
 
+<details>
+<summary>📈 Ver Estadísticas Dinámicas de Desarrollo (Beta/Experimental)</summary>
+  
 ### 📈 GitHub Metrics & Activity
-<!--
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=jclm-rt&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jclm-rt&layout=compact&theme=tokyonight)
--->
 
+</details>
+<!--
 > **Monitoreo en tiempo real de la actividad del plano de desarrollo.**
 
 <table>
@@ -52,7 +56,7 @@ Despliegue de un cluster de Kubernetes resiliente bajo políticas de **Pod Anti-
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ### 📈 System Operations & Metrics
